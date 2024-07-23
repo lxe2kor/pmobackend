@@ -1,0 +1,37 @@
+const planiswaremapping = {
+
+    'ID': 'id',
+    'Name': 'name',
+    'OBS': 'obs',
+    'Customer Name': 'customer_name',
+    'Demand Id': 'demand_id',
+    'Demand Fulfilment Org': 'demand_fulfilment_org',
+    'Demanded Skillset': 'demanded_skillset',
+    'Demanded Role': 'demanded_role',
+    'Demanded Proficiency Level': 'demanded_proficiency_level',
+    'Regional Resource Enum': 'regional_resource_enum',
+    'Employee number': 'employee_number',
+    'Name_1': 'employee_name',
+    'OBS_1': 'employee_obs',
+    'Resource type': 'resource_type',
+    'Role': 'current_role',
+    'Current Proficiency Level': 'current_proficiency_level',
+    'Location': 'location',
+    'Primary skillset': 'primary_skillset',
+    'Skillset Classification': 'skillset_classification',
+    'Outsourcing Partner': 'outsourcing_partner',
+    'JAN': 'jan',
+    'FEB': 'feb',
+    'MAR': 'mar',
+    'APR': 'apr',
+    'MAY': 'may',
+    'JUN': 'jun',
+    'JUL': 'jul',
+    'AUG': 'aug',
+    'SEP': 'sep',
+    'OCT': 'oct',
+    'NOV': 'nov',
+    'DEC': 'dece'
+};
+
+module.exports = planiswaremapping;
